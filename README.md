@@ -1,2 +1,2 @@
 # laravel-apache-mysql
-Trabalhando com laravel apace e mysql utilizando docker
+Trabalhando com laravel apache e mysql utilizando docker
